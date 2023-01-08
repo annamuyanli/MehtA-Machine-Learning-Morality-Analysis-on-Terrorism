@@ -1,1 +1,1 @@
-# MehtA-Machine-Learning-Morality-Analysis-on-Terrorism
+# Morality Analysis on Tweets Following Terrorist Attacks Using Natural Language Processing
